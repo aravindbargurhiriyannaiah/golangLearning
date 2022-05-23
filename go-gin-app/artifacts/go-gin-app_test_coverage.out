@@ -1,0 +1,4 @@
+mode: set
+go-gin-app/platform/newsfeed/newsfeed.go:20.18,24.2 1 1
+go-gin-app/platform/newsfeed/newsfeed.go:26.31,28.2 1 1
+go-gin-app/platform/newsfeed/newsfeed.go:30.32,32.2 1 1
